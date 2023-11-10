@@ -1,4 +1,4 @@
-alert('Você está em outra página')
+alert('Olá!')
 function mudarTexto() {
     document.getElementById("demo").innerHTML = "Texto alterado!";
 }
